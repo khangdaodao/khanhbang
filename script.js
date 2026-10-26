@@ -3,7 +3,7 @@
       template to a new customer.
    ========================================================== */
 const config = {
-  recipientName: "Crushh<3",          // shown as "for My Love" (set "" to hide)
+  recipientName: "you<3",          // shown as "for My Love" (set "" to hide)
   forLine: "for {name}",
   yesLabel: "Cóa ",
   noLabel: "Hong thèm 💔",
@@ -37,7 +37,7 @@ const config = {
   final: {
     sticker: "assets/Tonton Friends - Love Sticker.jpg",
     title: "Iu thee ❤️",
-    subtitle: "hehe... mình biết bạn cũng thích mình màa🥰",
+    subtitle: "biết ngayy, toii được yêu nhìu lứmm🥰",
     replayLabel: "Play again",
     showReplay: false,                // set false in the customer's version
   },
